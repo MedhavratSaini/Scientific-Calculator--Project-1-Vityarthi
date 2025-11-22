@@ -1,2 +1,2 @@
 # Scientific-Calculator--Project-1-Vityarthi
-The 
+This a scientific calculator designed to be useful.
