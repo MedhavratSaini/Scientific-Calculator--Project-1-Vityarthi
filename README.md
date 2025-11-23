@@ -24,7 +24,9 @@ The program can be run in two ways.
 
 First by opening the Project-1 Scientific Calculator.py in a python idle and then running the code.
 
-Second by opening the Project-1 Scientific Calculator.ipynb file and running the code cell in jupyter coding platform. 
+Second by opening the Project-1 Scientific Calculator.ipynb file and running the code cell in jupyter coding platform.
+
+In both the cases after performing one function the code block will end and to execute another function, the code block will have to be run again.
 # Instructions for testing
 The program can be tested by running the code multiple times and providing different inputs in order to access different functions. Further each funciton can be tested with different types of data inputs in order to validate the intended funcionality. 
 
