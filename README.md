@@ -13,6 +13,7 @@ Data Visualisation--> This section contains tools that help in visualising the a
 Numerical Line Graph- which plots a line graph for avilable set of abscissa and ordinate values. 
 Bar chart- Which plots the available numberical values for certain categories.
 Pie chart- Which plots a pie chart for the avaialable numerical values on certain categories.
+
 Every function works by taking the required input from the user and performing the necessary calculations. Since there are many ways to give numerical inputs the correct way to provide the input is stated at the required steps.
 
 # Technologies/tools used
