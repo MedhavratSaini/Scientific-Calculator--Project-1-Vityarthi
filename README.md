@@ -21,9 +21,10 @@ The program has been created by using Python language ,in creating this program 
 
 # Steps to install & run the project
 The program can be run in two ways.
-First by opening the Project-1 Scientific Calculator.py in a python idle and then running the code.
-Second by opening the Project-1 Scientific Calculator.ipynb file in jupyter coding platform.
 
+First by opening the Project-1 Scientific Calculator.py in a python idle and then running the code.
+
+Second by opening the Project-1 Scientific Calculator.ipynb file in jupyter coding platform.
 # Instructions for testing
 The program can be tested by running the code multiple times and providing different inputs in order to access different functions. Further each funciton can be tested with different types of data inputs in order to validate the intended funcionality. 
 
