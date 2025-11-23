@@ -19,4 +19,6 @@ Numerical Line Graph (User-defined axes labels, x-axis, y-axis values, and title
 
 Bar Graph (User-defined categories, corresponding numerical values, title, and axes labels)
 
-Pie Chart (User-defined labels, sizes, and colors)
+Pie Chart (User-defined labels, sizes, and colors
+
+The main feature of the program is the combined funcionality of the mathematical functions along with the data visualisation tools, as in many affordable calculators the data visulaisers are absent.
